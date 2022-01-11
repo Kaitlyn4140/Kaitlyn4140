@@ -1,5 +1,5 @@
 ### Hi, I'm Kaitlyn 👋
-![image](https://user-images.githubusercontent.com/77522279/148891197-23b836fb-9668-4b2c-821a-ece58ce608ec.png)
+<img src="https://user-images.githubusercontent.com/77522279/148891197-23b836fb-9668-4b2c-821a-ece58ce608ec.png" width="150">
 
 I'm a **second year Software Engineering major at UCI.**  
 I just recently switched over from the Informatics major.
