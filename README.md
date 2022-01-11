@@ -1,4 +1,6 @@
 ### Hi, I'm Kaitlyn 👋
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhello-cute-cat-hi-greetings-gif-16242995&psig=AOvVaw03oV6W-kNzvSF9C95XmziV&ust=1641967862244000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLioioyFqfUCFQAAAAAdAAAAABAI![image](https://user-images.githubusercontent.com/77522279/148890559-ddf3ddf3-6c46-47af-9de5-c54291ad48f9.png)
+
 
 I'm a **second year Software Engineering major at UCI.**  
 I just recently switched over from the Informatics major.
