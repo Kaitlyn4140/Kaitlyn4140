@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a second year Software Engineering major at UCI.  
+I just recently switched over from the Informatics major.
 <!--
 **Kaitlyn4140/Kaitlyn4140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
