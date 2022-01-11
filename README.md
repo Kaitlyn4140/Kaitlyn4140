@@ -1,5 +1,5 @@
 ### Hi, I'm Kaitlyn 👋
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FTrends-International-Pusheen-Premium-Unframed%2Fdp%2FB07ZS7388R&psig=AOvVaw28RRUCNsEt5G1Qs0wDjoDK&ust=1641968061800000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiu-eyFqfUCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/77522279/148890846-84bc7b67-c095-4a17-a52d-4f884497e572.png)
+![image](https://user-images.githubusercontent.com/77522279/148891197-23b836fb-9668-4b2c-821a-ece58ce608ec.png)
 
 I'm a **second year Software Engineering major at UCI.**  
 I just recently switched over from the Informatics major.
