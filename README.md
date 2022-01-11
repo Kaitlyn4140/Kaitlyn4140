@@ -10,6 +10,7 @@ I chose to switch into Software Engineering because I thought it was a good midd
 
 I'm from San Diego. My hobbies include reading manga and webtoons, watching anime, playing badmintion 🏸, and drawing ✏️. You can check out my art here [Link](https://www.instagram.com/milkynoomz/)
 
+<!--
 **Kaitlyn4140/Kaitlyn4140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
