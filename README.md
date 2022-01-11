@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I'm Kaitlyn 👋
 
 I'm a second year Software Engineering major at UCI.  
 I just recently switched over from the Informatics major.
+At first, I originally chose Informatics because I was more interested in the design and front end side of things like the UI/UX.
+However, as I was taking my first year programming intro courses, I realized that coding can be pretty fun too.
+I chose to switch into Software Engineering because I thought it was a good middle ground between Informatics and Computer Science.
+
+#### A Little More About Me Outside of School
 <!--
 **Kaitlyn4140/Kaitlyn4140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
