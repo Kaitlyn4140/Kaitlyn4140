@@ -1,7 +1,7 @@
 ### Hi, I'm Kaitlyn 👋
 <img src="https://user-images.githubusercontent.com/77522279/148891197-23b836fb-9668-4b2c-821a-ece58ce608ec.png" width="150">
 
-I'm a **second year Software Engineering major at UCI.**  
+I'm a **third year Software Engineering major at UCI.**  
 I just recently switched over from the Informatics major.
 At first, I originally chose Informatics because I was more interested in the design and front end side of things like the UI/UX.
 However, as I was taking my first year programming intro courses, I realized that coding can be pretty fun too.
